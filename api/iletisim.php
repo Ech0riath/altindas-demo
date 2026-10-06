@@ -7,7 +7,7 @@ declare(strict_types=1);
  */
 
 // ---- Varsayılanlar (config.php ile ezilir) ----
-$ALICI           = 'altindasmuhendislik@gmail.com';
+$ALICI           = 'info@altindasmuhendislik.com';
 $GONDEREN        = 'noreply@altindasmuhendislik.com'; // alan adına ait bir adres olmalı (SPF/teslim edilebilirlik)
 $TURNSTILE_SECRET = '';                               // boşsa Turnstile atlanır
 $MIN_SURE        = 3;                                 // saniye

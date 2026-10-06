@@ -9,7 +9,7 @@
 ```php
 <?php
 // config.php: depoya GİRMEZ, rsync --exclude 'config*' ile korunur
-$ALICI            = 'altindasmuhendislik@gmail.com';
+$ALICI            = 'info@altindasmuhendislik.com';
 $GONDEREN         = 'noreply@altindasmuhendislik.com'; // alan adına ait bir posta kutusu olmalı
 $TURNSTILE_SECRET = '';                                // boş = Turnstile kapalı
 // $MIN_SURE = 3; $SAAT_LIMIT = 5; $SAAT_LIMIT_TSIZ = 2;
